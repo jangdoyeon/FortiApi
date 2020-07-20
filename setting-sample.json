@@ -1,0 +1,11 @@
+{
+    "username": "username",
+    "passworld": "p@ssw0rld",
+    "xls": "data.xlsx",
+    "sheet": "Sheet1",
+    "fw": {
+        "fw_host_name-1": "1.2.3.4",
+        "fw_host_name-2": "1.2.3.5",
+        "fw_host_name-3": "1.2.3.6"
+    }
+}
